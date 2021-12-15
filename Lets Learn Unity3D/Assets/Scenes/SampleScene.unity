@@ -231,6 +231,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df991445c2ec1438398314651d5b785a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 20
+  bulletPrefab: {fileID: 3177894034180976489, guid: 698ef79dda9574cdc8d1bcc712630df5, type: 3}
 --- !u!1 &508981191
 GameObject:
   m_ObjectHideFlags: 0
